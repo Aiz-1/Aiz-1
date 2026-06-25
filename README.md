@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Aiz Ali
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Aiz Ali
 
 ### Aspiring DevOps & Cloud Engineer • Linux Enthusiast • Computer Science Student
 
@@ -11,11 +11,9 @@
 <a href="https://github.com/Aiz-1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/aiz-ali-7ab5493a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:aaiezali13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -30,44 +28,42 @@ I'm a **Computer Science student at FAST NUCES** with a growing passion for **De
 
 My curiosity began with a simple question:
 
-> **"What happens behind the scenes when an application serves millions of users?"**
+> *"What happens behind the scenes when an application serves millions of users?"*
 
 That curiosity led me to explore Linux, Docker, automation, CI/CD, and cloud technologies.
 
-I'm currently focused on building strong fundamentals in scalable systems while creating projects that improve my software engineering skills every day.
+### 🎯 Quick Snapshot
 
-- 🎓 BS Computer Science — FAST NUCES
-- 🏆 2× Dean's List Recipient
-- 🌍 Based in Faisalabad, Pakistan
-- ☁️ Learning DevOps & Cloud Computing
-- 🐧 Linux Enthusiast
-- ⚙️ Interested in Automation & System Design
+| | |
+| :--- | :--- |
+| 🎓 **Education** | BS Computer Science — FAST NUCES |
+| 🏆 **Achievement** | 2× Dean's List Recipient |
+| 🌍 **Location** | Faisalabad, Pakistan |
+| ☁️ **Focus** | DevOps & Cloud Computing |
+| 🐧 **Passion** | Linux Enthusiast |
+| ⚙️ **Interest** | Automation & System Design |
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-
-<p>
+### 💻 Languages
+<p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js"/>
 </p>
 
-### Web
-
-<p>
+### 🌐 Web
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css"/>
 </p>
 
-### Database
-
-<p>
+### 🗄️ Database
+<p align="left">
 <img src="https://skillicons.dev/icons?i=postgres,supabase"/>
 </p>
 
-### DevOps & Tools
-
-<p>
+### 🛠 DevOps & Tools
+<p align="left">
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,bash"/>
 </p>
 
@@ -75,24 +71,26 @@ I'm currently focused on building strong fundamentals in scalable systems while 
 
 ## 🚀 Featured Projects
 
-### 🖥 Nexus OS
-Mini Operating System Simulation implementing process scheduling, synchronization, semaphores, and resource management using **C++**.
+### 🖥️ Nexus OS
+> Mini Operating System Simulation implementing process scheduling, synchronization, semaphores, and resource management using **C++**.
 
 ### 📊 YouStat
-A YouTube Analytics & Prediction platform providing statistical insights and revenue estimation through data visualization.
+> A YouTube Analytics & Prediction platform providing statistical insights and revenue estimation through data visualization.
 
 ### 🕵️ CRIMEX
-A full-stack Crime Investigation & Case Management System featuring authentication, role-based access control, and PostgreSQL database design.
+> A full-stack Crime Investigation & Case Management System featuring authentication, role-based access control, and PostgreSQL database design.
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🐳 Docker
-- 🔄 CI/CD Pipelines
-- ☁️ Cloud Computing
-- 🐧 Linux Administration
-- ☸️ Kubernetes
+<p align="left">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+</p>
 
 ---
 
@@ -115,32 +113,3 @@ public:
         cout << "Learning • Building • Automating";
     }
 };
-```
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-<a href="https://github.com/Aiz-1">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aiz-ali-7ab5493a0/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:aaiezali13@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Keep Learning. Keep Building. Keep Growing."* 🚀
-
-</div>
