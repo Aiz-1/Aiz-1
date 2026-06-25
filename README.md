@@ -1,143 +1,146 @@
-<h1 align="center">Hi 👋, I'm Aiz Ali</h1>
+<div align="center">
 
-<h3 align="center">
-A Passionate Software Developer | C++ Programmer | AI Enthusiast
-</h3>
+# Hi 👋 I'm Aiz Ali
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;C%2FC%2B%2B+Programmer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner;Always+Learning+New+Things+🚀" />
-</p>
+### Aspiring DevOps & Cloud Engineer • Linux Enthusiast • Computer Science Student
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=2500&color=2563EB&center=true&vCenter=true&width=650&lines=Exploring+DevOps+and+Cloud;Building+Scalable+Systems;Linux+%7C+Automation+%7C+Backend;Always+Learning+🚀"/>
 
-## 🚀 About Me
+<br>
 
-- 🎓 Computer Science Student
-- 💻 Love building Software & AI Applications
-- 🌱 Currently learning **Operating Systems, AI & Full Stack Development**
-- ⚡ Passionate about Problem Solving
-- 📫 Reach me at **your-email@gmail.com**
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/aiz-ali-7ab5493a0">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/Aiz-1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/aiz-ali-7ab5493a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<a href="mailto:aaiezali13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# 💻 Tech Stack
+## 👨‍💻 About Me
+
+I'm a **Computer Science student at FAST NUCES** with a growing passion for **DevOps, Cloud Computing, Linux, and Backend Engineering**.
+
+My curiosity began with a simple question:
+
+> **"What happens behind the scenes when an application serves millions of users?"**
+
+That curiosity led me to explore Linux, Docker, automation, CI/CD, and cloud technologies.
+
+I'm currently focused on building strong fundamentals in scalable systems while creating projects that improve my software engineering skills every day.
+
+- 🎓 BS Computer Science — FAST NUCES
+- 🏆 2× Dean's List Recipient
+- 🌍 Based in Faisalabad, Pakistan
+- ☁️ Learning DevOps & Cloud Computing
+- 🐧 Linux Enthusiast
+- ⚙️ Interested in Automation & System Design
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js"/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js"/>
 </p>
 
 ### Web
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs"/>
-
+<img src="https://skillicons.dev/icons?i=html,css"/>
 </p>
 
 ### Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
+<img src="https://skillicons.dev/icons?i=postgres,supabase"/>
 </p>
 
-### Tools
+### DevOps & Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman"/>
-
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,bash"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
+### 🖥 Nexus OS
+Mini Operating System Simulation implementing process scheduling, synchronization, semaphores, and resource management using **C++**.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+### 📊 YouStat
+A YouTube Analytics & Prediction platform providing statistical insights and revenue estimation through data visualization.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+### 🕵️ CRIMEX
+A full-stack Crime Investigation & Case Management System featuring authentication, role-based access control, and PostgreSQL database design.
 
+---
+
+## 🌱 Currently Learning
+
+- 🐳 Docker
+- 🔄 CI/CD Pipelines
+- ☁️ Cloud Computing
+- 🐧 Linux Administration
+- ☸️ Kubernetes
+
+---
+
+## 💻 A Little About Me
+
+```cpp
+class AizAli {
+public:
+    string role = "Computer Science Student";
+    string university = "FAST NUCES";
+
+    vector<string> interests = {
+        "DevOps",
+        "Cloud Computing",
+        "Linux",
+        "Backend Engineering"
+    };
+
+    void currentFocus() {
+        cout << "Learning • Building • Automating";
+    }
+};
+```
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Aiz-1">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aiz-ali-7ab5493a0/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:aaiezali13@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+*"Keep Learning. Keep Building. Keep Growing."* 🚀
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-- 🖥 Operating System Simulation (C/C++)
-- 🤖 AI Projects
-- 🌐 Full Stack Web Applications
-- 📊 Data Structures & Algorithms
-- 🎮 GUI Applications using SFML
-
----
-
-# 💡 Quote
-
-> "Code. Learn. Build. Repeat."
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=for-the-badge"/>
-
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+</div>
